@@ -1,30 +1,30 @@
 [
     {
-        "src": "",
+        "src": "./img/magyar.png",
         "name": "Hungary"
     },
     {
-        "src": "",
+        "src": "./img/horvat.png",
         "name": "Croatia"
     },
     {
-        "src": "",
+        "src": "./img/Poland.png",
         "name": "Poland"
     },
     {
-        "src": "",
-        "name": "Checz Republic"
+        "src": "./img/checz.jpg",
+        "name": "Czech Republic"
     },
     {
-        "src": "",
+        "src": "./img/austria.jpg",
         "name": "Austria"
     },
     {
-        "src": "",
+        "src": "./img/egypt.png",
         "name": "Egypt"
     },
     {
-        "src": "",
+        "src": "./img/holland.png",
         "name": "Netherlands"
     }
 ]
